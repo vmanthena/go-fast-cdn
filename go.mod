@@ -1,6 +1,6 @@
 module github.com/kevinanielsen/go-fast-cdn
 
-go 1.21.2
+go 1.23
 
 require (
 	github.com/anthonynsimon/bild v0.13.0
